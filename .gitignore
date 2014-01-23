@@ -28,4 +28,5 @@ config/database.yml
 public/assets
 *.swp
 blank.png
+config/kody.txt
 *DS_Store
